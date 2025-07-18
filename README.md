@@ -10,13 +10,12 @@
  performance metrics and helped understand strategic factors for helping and
  understanding more about the outcomes of IPL matches.
  • Role:
- - Analyzedproblemdefinition.
- - Haveanalyzed,identified patterns, and explored the data.
- - Building,publishingcustomizedinteractive reports and dashboards using
+ - Analyzed problem definition.
+ - Have analyzed,identified patterns, and explored the data.
+ - Building,publishing customized interactive reports and dashboards using
    Python's NumPy, Pandas, Seaborn, MatplotLib.
- - WorkingwithateamofanalystsandimplementingaBIsolutionfor
+ - Working with team of analysts and implementing BI solution for
    cricketers performance.
- - DevelopedJupyterworkbookstoperform cricketers run score,average
-   performance. Analyze year wise winners , man of the match for each teams,
+ -  Analyze year wise winners , man of the match for each teams,
    blowers and batsman performance etc..
  - Develop Visualization reports that provide clear idea of all the business activities
